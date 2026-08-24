@@ -1,0 +1,21 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+.aws/
+
+# Generated demo charts
+/growth_*.png
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
