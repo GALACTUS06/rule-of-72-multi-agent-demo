@@ -114,3 +114,10 @@ python -c "from code.tools import rule_of_72; print(rule_of_72(rate=8))"
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## GitHub Attribution
+
+This project is associated with the following GitHub accounts:
+
+- [@GALACTUS06](https://github.com/GALACTUS06)
+- [@XinchenLi-01](https://github.com/XinchenLi-01)
